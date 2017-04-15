@@ -308,7 +308,7 @@
     </div>
 </div>
 <div class="footer col-xs-12">
-    <p>&copy;<?php echo date('Y'); ?> | <a href="#">RiL Investiments</a>| <a href="#">Terms & Conditions</a> | Page rendered in seconds</p>
+    <p>&copy;<?php echo date('Y'); ?> | <a href="#">Moses Wasswa inc.</a>| <a href="#">Terms & Conditions</a> | Page rendered in seconds</p>
 </div>
 </body>
 <script type="text/javascript" src="{{ URL::asset('js/javascript.js') }}"></script>
